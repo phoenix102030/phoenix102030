@@ -24,7 +24,7 @@ I'm a master student majored in Autonomous System and IoT in KTH and Eurecom, an
 
 ### 📊 Stats
 
-![Sitong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix&show_icons=true&theme=gruvbox)
+![Sitong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix102030&show_icons=true&theme=gruvbox)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Phoenix's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=phoenix102030&langs_count=8&layout=compact&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fe8019&icon_color=fabd2f&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
