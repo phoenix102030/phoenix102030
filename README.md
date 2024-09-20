@@ -3,7 +3,7 @@
 ## Hi there 👋
 **`Developer, Data Analyst, Engineer and Master Student`**
 
-I'm a master student majored in Autonomous System and IoT in KTH andurecom, and I'm always a student learning how to build my version of the digital world step by step.
+I'm a master student majored in Autonomous System and IoT in KTH and Eurecom, and I'm always a student learning how to build my version of the digital world step by step.
 
 ---
 
