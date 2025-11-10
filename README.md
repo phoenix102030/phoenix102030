@@ -1,4 +1,4 @@
-#  🧑‍💻 Sitong (Felix) Yang
+#  🧑‍💻 Felix Yang
 
 ## Hi there 👋
 **`Developer, Data Analyst, Engineer and Master Student`**
