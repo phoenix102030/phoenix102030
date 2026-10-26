@@ -1,7 +1,7 @@
 #  🧑‍💻 Sitong Yang
 
 ## Hi there 👋
-**`Developer, Data Analyst, Engineer and Master Student`**
+**`Developer, Data Analyst, Engineer and PhD Student`**
 
 ### I’m a PhD student in IE, my research interests lie at the intersection of physics, AI, and statistics, with a particular focus on spatiotemporal modeling. I am currently exploring applications in geophysical weather.
 ### Open to collaborations and conversations around scientific ML, spatiotemporal forecasting, uncertainty quantification, and geophysical weather applications.
