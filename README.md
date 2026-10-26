@@ -3,8 +3,8 @@
 ## Hi there 👋
 **`Developer, Data Analyst, Engineer and Master Student`**
 
-I'm a Phd student and a developer, and I'm always a student learning how to build my version of the digital world step by step.
-
+I’m a PhD student in IE, my research interests lie at the intersection of physics, AI, and statistics, with a particular focus on spatiotemporal modeling. I am currently exploring applications in geophysical weather.
+Open to collaborations and conversations around scientific ML, spatiotemporal forecasting, uncertainty quantification, and geophysical weather applications.
 ---
 
 ### 🧰 Languages and Tools
