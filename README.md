@@ -2,7 +2,7 @@
 
 **PhD student in Industrial Engineering · Clemson University**
 
-I use statistics and machine learning, with a particular focus on **flow matching**, to forecast **terrestrial weather and space weather**. My interests span spatiotemporal modeling, the ionosphere, and the thermosphere.
+I use statistics and machine learning, to forecast **terrestrial weather and space weather**. My interests span spatiotemporal modeling, data assimilation, probabilistic forecasting.
 
 [Research](#research) · [Methods](#methods) · [Code](https://github.com/phoenix102030?tab=repositories) · [Connect](#connect)
 
