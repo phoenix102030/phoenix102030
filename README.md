@@ -1,8 +1,8 @@
-![Si-Tong YANG — With AI, from Earth to space. Aurora above Earth's horizon.](profile-banner.png)
+![Si-Tong YANG — With AI, from Terra to space. Aurora above Earth's horizon.](profile-banner.png)
 
 **PhD student in Industrial Engineering · Clemson University**
 
-I use statistics and machine learning, with a particular focus on **flow matching**, to forecast **global wind fields and space weather**. My interests span spatiotemporal modeling, the ionosphere, and the thermosphere.
+I use statistics and machine learning, with a particular focus on **flow matching**, to forecast **terrestrial weather and space weather**. My interests span spatiotemporal modeling, the ionosphere, and the thermosphere.
 
 [Research](#research) · [Methods](#methods) · [Code](https://github.com/phoenix102030?tab=repositories) · [Connect](#connect)
 
@@ -10,7 +10,7 @@ I use statistics and machine learning, with a particular focus on **flow matchin
 
 ### Research
 
-- **Global winds** — statistical and machine learning approaches to atmospheric forecasting.
+- **Terrestrial weather** — statistical and machine learning approaches to atmospheric forecasting.
 - **Space weather** — prediction in near-Earth space, including the ionosphere and thermosphere.
 
 ### Methods
